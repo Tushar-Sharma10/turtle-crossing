@@ -60,10 +60,10 @@ turtle_crossing_game/
 ## 📸 Screenshots
 
 ### 🐢 During Gameplay
-![Gameplay](screenshots/Screenshot1.png)
+![Gameplay](screenshots/Screenshot2.png)
 
 ### ❌ Game Over Screen
-![Game Over](screenshots/Screenshot2.png)
+![Game Over](screenshots/Screenshot1.png)
 
 
 
